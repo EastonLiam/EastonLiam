@@ -1,17 +1,17 @@
 ### Hello 👋, I'm Liam!
 
-- 💻 I am currently working full-time as a <b> Software Developer</b> and <b>College Student</b> 
+- 💻 I currently develop in HTML, CSS, JavaScript and LUA and am actively learning the operation of JQuery & React!
+- 👨‍🍳 I study Professional Cookery at college...
+- 📇 I uphold the role of Operations Manager and Backend Support Director within scouting
 
 #### 🛠️ Tools & Languages
 
-![React](https://img.shields.io/badge/React-20232A.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)]
 
 #### 📈 Statistics
 
