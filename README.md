@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)]
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 #### 📈 Statistics
 
@@ -19,6 +19,5 @@
   <img height=200 align="center" src ="https://github-readme-stats.vercel.app/api?username=EastonLiam&show_icons=true&include_all_commits=true&count_private=true&theme=transparent">
 </p>
 
----
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](#)
 ![Profile Views: 0](https://komarev.com/ghpvc/?username=EastonLiam)
